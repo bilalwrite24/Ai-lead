@@ -1,0 +1,6 @@
+{
+  "name": "LeadFit AI",
+  "description": "Professional B2B prospect list qualification against client Ideal Customer Profiles with deterministic scoring, column mapping, and outreach drafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
